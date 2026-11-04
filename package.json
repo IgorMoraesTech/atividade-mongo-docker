@@ -1,0 +1,9 @@
+{
+  "name": "atividade-mongo-docker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "mongoose": "^9.11.4"
+  }
+}
